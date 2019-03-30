@@ -1,0 +1,606 @@
+<IMPORT_PACKAGE xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://tmx.uahs.arizona.edu:8443/extras/tmx2-import.xsd">
+  <DONOR_PACKAGE>
+    <DONOR>
+      <DONOR_NUMBER>AT-01-00201</DONOR_NUMBER>
+      <SOURCE1 xsi:nil="true"/>
+      <FILE1 xsi:nil="true"/>
+      <CONTACT1 xsi:nil="true"/>
+      <SOURCE2 xsi:nil="true"/>
+      <FILE2 xsi:nil="true"/>
+      <CONTACT2 xsi:nil="true"/>
+      <SOURCE3 xsi:nil="true"/>
+      <FILE3 xsi:nil="true"/>
+      <CONTACT3 xsi:nil="true"/>
+      <FIRST_NAME>01-0196-01</FIRST_NAME>
+      <MIDDLE_NAME xsi:nil="true"/>
+      <LAST_NAME xsi:nil="true"/>
+      <DATE_OF_BIRTH xsi:nil="true"/>
+      <PLACE_OF_BIRTH xsi:nil="true"/>
+      <SEX xsi:nil="true"/>
+      <SPECIES xsi:nil="true"/>
+      <PAT_ETHNICITY xsi:nil="true"/>
+      <MAT_ETHNICITY xsi:nil="true"/>
+      <DISEASE_CODE xsi:nil="true"/>
+      <DISEASE_SITE xsi:nil="true"/>
+      <DATE_REGISTERED>2018-12-17T14:02:00</DATE_REGISTERED>
+      <ADDRESS1 xsi:nil="true"/>
+      <ADDRESS2 xsi:nil="true"/>
+      <CITY xsi:nil="true"/>
+      <STATE xsi:nil="true"/>
+      <COUNTRY xsi:nil="true"/>
+      <POSTAL_CODE xsi:nil="true"/>
+      <TELEPHONE_HOME xsi:nil="true"/>
+      <TELEPHONE_BUS xsi:nil="true"/>
+      <DONOR_STATUS xsi:nil="true"/>
+      <DATE_LAST_FUP xsi:nil="true"/>
+      <DATE_NEXT_FUP xsi:nil="true"/>
+      <DATE_OF_DEATH xsi:nil="true"/>
+      <CAUSE_OF_DEATH xsi:nil="true"/>
+      <COMMENTS xsi:nil="true"/>
+    </DONOR>
+    <EVENT_PACKAGE>
+      <EVENT>
+        <EVENT_NAME>001</EVENT_NAME>
+        <EVENT_DATE>2018-12-17T14:02:00</EVENT_DATE>
+        <EVENT_SEQUENCE>001</EVENT_SEQUENCE>
+        <PERFORMANCE xsi:nil="true"/>
+        <DONOR_HEIGHT xsi:nil="true"/>
+        <DONOR_WEIGHT xsi:nil="true"/>
+        <DONOR_BSA xsi:nil="true"/>
+        <HEMOGLOBIN xsi:nil="true"/>
+        <DISEASE_SITE xsi:nil="true"/>
+        <DISEASE_CODE xsi:nil="true"/>
+        <PATHOLOGY xsi:nil="true"/>
+        <SURGERY xsi:nil="true"/>
+        <SYS_THERAPY xsi:nil="true"/>
+        <RADIATION xsi:nil="true"/>
+        <TOXICITY xsi:nil="true"/>
+        <OUTCOMES xsi:nil="true"/>
+        <PATIENT_HX xsi:nil="true"/>
+        <FAMILY_HX xsi:nil="true"/>
+        <NEO_ADJ_TREAT xsi:nil="true"/>
+        <CLINICAL_TRIAL xsi:nil="true"/>
+        <TRIAL_NAME xsi:nil="true"/>
+        <TRIAL_SPONSOR xsi:nil="true"/>
+        <PROG_DATE xsi:nil="true"/>
+        <PROG_STATUS xsi:nil="true"/>
+        <PROG_SITE xsi:nil="true"/>
+        <COMMENTS xsi:nil="true"/>
+      </EVENT>
+      <SAMPLE_PACKAGE>
+        <SAMPLE>
+          <PARENT_NUMBER xsi:nil="true"/>
+          <SAMPLE_NUMBER>AT-01-00201-001-001</SAMPLE_NUMBER>
+          <EXTERNAL_NUMBER xsi:nil="true"/>
+          <RECEIPT_DATE xsi:nil="true"/>
+          <COLLECTION_DATE xsi:nil="true"/>
+          <INSTITUTION xsi:nil="true"/>
+          <PREP_DATE xsi:nil="true"/>
+          <PREP_BY xsi:nil="true"/>
+          <COLLECTED_BY xsi:nil="true"/>
+          <STORAGE_ADDRESS>ABLE 008-Shelf2-Box156-029</STORAGE_ADDRESS>
+          <SAMPLE_TYPE>Fluid</SAMPLE_TYPE>
+          <SAMPLE_CATEGORY xsi:nil="true"/>
+          <IS_COMPOSITE xsi:nil="true"/>
+          <ARRAY_SIZE_X xsi:nil="true"/>
+          <ARRAY_SIZE_Y xsi:nil="true"/>
+          <MAPPING_STATUS xsi:nil="true"/>
+          <SAMPLE_PREP>SERUM</SAMPLE_PREP>
+          <DISEASE_CODE xsi:nil="true"/>
+          <SITE_CODE xsi:nil="true"/>
+          <SITE_OF_TISSUE xsi:nil="true"/>
+          <DONOR_AGE xsi:nil="true"/>
+          <AGE_UNITS xsi:nil="true"/>
+          <SEX xsi:nil="true"/>
+          <SPECIES xsi:nil="true"/>
+          <FT_CYCLES xsi:nil="true"/>
+          <QTY_UNITS xsi:nil="true"/>
+          <CONC_UNITS xsi:nil="true"/>
+          <QTY_ORIGINAL xsi:nil="true"/>
+          <QTY_ON_HAND xsi:nil="true"/>
+          <CONCENTRATION xsi:nil="true"/>
+          <STORAGE_STATUS>Available</STORAGE_STATUS>
+          <PREP_STATUS xsi:nil="true"/>
+          <COMMENTS xsi:nil="true"/>
+          <INVENTORY_STATUS>IN</INVENTORY_STATUS>
+          <IMAGE_URL xsi:nil="true"/>
+          <EXPIRY_DATE xsi:nil="true"/>
+        </SAMPLE>
+        <SAMPLE>
+          <PARENT_NUMBER xsi:nil="true"/>
+          <SAMPLE_NUMBER>AT-01-00201-001-002</SAMPLE_NUMBER>
+          <EXTERNAL_NUMBER xsi:nil="true"/>
+          <RECEIPT_DATE xsi:nil="true"/>
+          <COLLECTION_DATE xsi:nil="true"/>
+          <INSTITUTION xsi:nil="true"/>
+          <PREP_DATE xsi:nil="true"/>
+          <PREP_BY xsi:nil="true"/>
+          <COLLECTED_BY xsi:nil="true"/>
+          <STORAGE_ADDRESS>ABLE 008-Shelf2-Box156-030</STORAGE_ADDRESS>
+          <SAMPLE_TYPE>Fluid</SAMPLE_TYPE>
+          <SAMPLE_CATEGORY xsi:nil="true"/>
+          <IS_COMPOSITE xsi:nil="true"/>
+          <ARRAY_SIZE_X xsi:nil="true"/>
+          <ARRAY_SIZE_Y xsi:nil="true"/>
+          <MAPPING_STATUS xsi:nil="true"/>
+          <SAMPLE_PREP>SERUM</SAMPLE_PREP>
+          <DISEASE_CODE xsi:nil="true"/>
+          <SITE_CODE xsi:nil="true"/>
+          <SITE_OF_TISSUE xsi:nil="true"/>
+          <DONOR_AGE xsi:nil="true"/>
+          <AGE_UNITS xsi:nil="true"/>
+          <SEX xsi:nil="true"/>
+          <SPECIES xsi:nil="true"/>
+          <FT_CYCLES xsi:nil="true"/>
+          <QTY_UNITS xsi:nil="true"/>
+          <CONC_UNITS xsi:nil="true"/>
+          <QTY_ORIGINAL xsi:nil="true"/>
+          <QTY_ON_HAND xsi:nil="true"/>
+          <CONCENTRATION xsi:nil="true"/>
+          <STORAGE_STATUS>Available</STORAGE_STATUS>
+          <PREP_STATUS xsi:nil="true"/>
+          <COMMENTS xsi:nil="true"/>
+          <INVENTORY_STATUS>IN</INVENTORY_STATUS>
+          <IMAGE_URL xsi:nil="true"/>
+          <EXPIRY_DATE xsi:nil="true"/>
+        </SAMPLE>
+        <SAMPLE>
+          <PARENT_NUMBER xsi:nil="true"/>
+          <SAMPLE_NUMBER>AT-01-00201-001-003</SAMPLE_NUMBER>
+          <EXTERNAL_NUMBER xsi:nil="true"/>
+          <RECEIPT_DATE xsi:nil="true"/>
+          <COLLECTION_DATE xsi:nil="true"/>
+          <INSTITUTION xsi:nil="true"/>
+          <PREP_DATE xsi:nil="true"/>
+          <PREP_BY xsi:nil="true"/>
+          <COLLECTED_BY xsi:nil="true"/>
+          <STORAGE_ADDRESS>ABLE 008-Shelf2-Box156-031</STORAGE_ADDRESS>
+          <SAMPLE_TYPE>Fluid</SAMPLE_TYPE>
+          <SAMPLE_CATEGORY xsi:nil="true"/>
+          <IS_COMPOSITE xsi:nil="true"/>
+          <ARRAY_SIZE_X xsi:nil="true"/>
+          <ARRAY_SIZE_Y xsi:nil="true"/>
+          <MAPPING_STATUS xsi:nil="true"/>
+          <SAMPLE_PREP>SERUM</SAMPLE_PREP>
+          <DISEASE_CODE xsi:nil="true"/>
+          <SITE_CODE xsi:nil="true"/>
+          <SITE_OF_TISSUE xsi:nil="true"/>
+          <DONOR_AGE xsi:nil="true"/>
+          <AGE_UNITS xsi:nil="true"/>
+          <SEX xsi:nil="true"/>
+          <SPECIES xsi:nil="true"/>
+          <FT_CYCLES xsi:nil="true"/>
+          <QTY_UNITS xsi:nil="true"/>
+          <CONC_UNITS xsi:nil="true"/>
+          <QTY_ORIGINAL xsi:nil="true"/>
+          <QTY_ON_HAND xsi:nil="true"/>
+          <CONCENTRATION xsi:nil="true"/>
+          <STORAGE_STATUS>Available</STORAGE_STATUS>
+          <PREP_STATUS xsi:nil="true"/>
+          <COMMENTS xsi:nil="true"/>
+          <INVENTORY_STATUS>IN</INVENTORY_STATUS>
+          <IMAGE_URL xsi:nil="true"/>
+          <EXPIRY_DATE xsi:nil="true"/>
+        </SAMPLE>
+        <SAMPLE>
+          <PARENT_NUMBER xsi:nil="true"/>
+          <SAMPLE_NUMBER>AT-01-00201-001-004</SAMPLE_NUMBER>
+          <EXTERNAL_NUMBER xsi:nil="true"/>
+          <RECEIPT_DATE xsi:nil="true"/>
+          <COLLECTION_DATE xsi:nil="true"/>
+          <INSTITUTION xsi:nil="true"/>
+          <PREP_DATE xsi:nil="true"/>
+          <PREP_BY xsi:nil="true"/>
+          <COLLECTED_BY xsi:nil="true"/>
+          <STORAGE_ADDRESS>ABLE 008-Shelf2-Box156-032</STORAGE_ADDRESS>
+          <SAMPLE_TYPE>Fluid</SAMPLE_TYPE>
+          <SAMPLE_CATEGORY xsi:nil="true"/>
+          <IS_COMPOSITE xsi:nil="true"/>
+          <ARRAY_SIZE_X xsi:nil="true"/>
+          <ARRAY_SIZE_Y xsi:nil="true"/>
+          <MAPPING_STATUS xsi:nil="true"/>
+          <SAMPLE_PREP>SERUM</SAMPLE_PREP>
+          <DISEASE_CODE xsi:nil="true"/>
+          <SITE_CODE xsi:nil="true"/>
+          <SITE_OF_TISSUE xsi:nil="true"/>
+          <DONOR_AGE xsi:nil="true"/>
+          <AGE_UNITS xsi:nil="true"/>
+          <SEX xsi:nil="true"/>
+          <SPECIES xsi:nil="true"/>
+          <FT_CYCLES xsi:nil="true"/>
+          <QTY_UNITS xsi:nil="true"/>
+          <CONC_UNITS xsi:nil="true"/>
+          <QTY_ORIGINAL xsi:nil="true"/>
+          <QTY_ON_HAND xsi:nil="true"/>
+          <CONCENTRATION xsi:nil="true"/>
+          <STORAGE_STATUS>Available</STORAGE_STATUS>
+          <PREP_STATUS xsi:nil="true"/>
+          <COMMENTS xsi:nil="true"/>
+          <INVENTORY_STATUS>IN</INVENTORY_STATUS>
+          <IMAGE_URL xsi:nil="true"/>
+          <EXPIRY_DATE xsi:nil="true"/>
+        </SAMPLE>
+        <SAMPLE>
+          <PARENT_NUMBER xsi:nil="true"/>
+          <SAMPLE_NUMBER>AT-01-00201-001-005</SAMPLE_NUMBER>
+          <EXTERNAL_NUMBER xsi:nil="true"/>
+          <RECEIPT_DATE xsi:nil="true"/>
+          <COLLECTION_DATE xsi:nil="true"/>
+          <INSTITUTION xsi:nil="true"/>
+          <PREP_DATE xsi:nil="true"/>
+          <PREP_BY xsi:nil="true"/>
+          <COLLECTED_BY xsi:nil="true"/>
+          <STORAGE_ADDRESS>ABLE 008-Shelf2-Box156-033</STORAGE_ADDRESS>
+          <SAMPLE_TYPE>Fluid</SAMPLE_TYPE>
+          <SAMPLE_CATEGORY xsi:nil="true"/>
+          <IS_COMPOSITE xsi:nil="true"/>
+          <ARRAY_SIZE_X xsi:nil="true"/>
+          <ARRAY_SIZE_Y xsi:nil="true"/>
+          <MAPPING_STATUS xsi:nil="true"/>
+          <SAMPLE_PREP>SERUM</SAMPLE_PREP>
+          <DISEASE_CODE xsi:nil="true"/>
+          <SITE_CODE xsi:nil="true"/>
+          <SITE_OF_TISSUE xsi:nil="true"/>
+          <DONOR_AGE xsi:nil="true"/>
+          <AGE_UNITS xsi:nil="true"/>
+          <SEX xsi:nil="true"/>
+          <SPECIES xsi:nil="true"/>
+          <FT_CYCLES xsi:nil="true"/>
+          <QTY_UNITS xsi:nil="true"/>
+          <CONC_UNITS xsi:nil="true"/>
+          <QTY_ORIGINAL xsi:nil="true"/>
+          <QTY_ON_HAND xsi:nil="true"/>
+          <CONCENTRATION xsi:nil="true"/>
+          <STORAGE_STATUS>Available</STORAGE_STATUS>
+          <PREP_STATUS xsi:nil="true"/>
+          <COMMENTS xsi:nil="true"/>
+          <INVENTORY_STATUS>IN</INVENTORY_STATUS>
+          <IMAGE_URL xsi:nil="true"/>
+          <EXPIRY_DATE xsi:nil="true"/>
+        </SAMPLE>
+        <SAMPLE>
+          <PARENT_NUMBER xsi:nil="true"/>
+          <SAMPLE_NUMBER>AT-01-00201-001-006</SAMPLE_NUMBER>
+          <EXTERNAL_NUMBER xsi:nil="true"/>
+          <RECEIPT_DATE xsi:nil="true"/>
+          <COLLECTION_DATE xsi:nil="true"/>
+          <INSTITUTION xsi:nil="true"/>
+          <PREP_DATE xsi:nil="true"/>
+          <PREP_BY xsi:nil="true"/>
+          <COLLECTED_BY xsi:nil="true"/>
+          <STORAGE_ADDRESS>ABLE 008-Shelf2-Box156-034</STORAGE_ADDRESS>
+          <SAMPLE_TYPE>Fluid</SAMPLE_TYPE>
+          <SAMPLE_CATEGORY xsi:nil="true"/>
+          <IS_COMPOSITE xsi:nil="true"/>
+          <ARRAY_SIZE_X xsi:nil="true"/>
+          <ARRAY_SIZE_Y xsi:nil="true"/>
+          <MAPPING_STATUS xsi:nil="true"/>
+          <SAMPLE_PREP>PLASMA</SAMPLE_PREP>
+          <DISEASE_CODE xsi:nil="true"/>
+          <SITE_CODE xsi:nil="true"/>
+          <SITE_OF_TISSUE xsi:nil="true"/>
+          <DONOR_AGE xsi:nil="true"/>
+          <AGE_UNITS xsi:nil="true"/>
+          <SEX xsi:nil="true"/>
+          <SPECIES xsi:nil="true"/>
+          <FT_CYCLES xsi:nil="true"/>
+          <QTY_UNITS xsi:nil="true"/>
+          <CONC_UNITS xsi:nil="true"/>
+          <QTY_ORIGINAL xsi:nil="true"/>
+          <QTY_ON_HAND xsi:nil="true"/>
+          <CONCENTRATION xsi:nil="true"/>
+          <STORAGE_STATUS>Available</STORAGE_STATUS>
+          <PREP_STATUS xsi:nil="true"/>
+          <COMMENTS xsi:nil="true"/>
+          <INVENTORY_STATUS>IN</INVENTORY_STATUS>
+          <IMAGE_URL xsi:nil="true"/>
+          <EXPIRY_DATE xsi:nil="true"/>
+        </SAMPLE>
+        <SAMPLE>
+          <PARENT_NUMBER xsi:nil="true"/>
+          <SAMPLE_NUMBER>AT-01-00201-001-007</SAMPLE_NUMBER>
+          <EXTERNAL_NUMBER xsi:nil="true"/>
+          <RECEIPT_DATE xsi:nil="true"/>
+          <COLLECTION_DATE xsi:nil="true"/>
+          <INSTITUTION xsi:nil="true"/>
+          <PREP_DATE xsi:nil="true"/>
+          <PREP_BY xsi:nil="true"/>
+          <COLLECTED_BY xsi:nil="true"/>
+          <STORAGE_ADDRESS>ABLE 008-Shelf2-Box156-035</STORAGE_ADDRESS>
+          <SAMPLE_TYPE>Fluid</SAMPLE_TYPE>
+          <SAMPLE_CATEGORY xsi:nil="true"/>
+          <IS_COMPOSITE xsi:nil="true"/>
+          <ARRAY_SIZE_X xsi:nil="true"/>
+          <ARRAY_SIZE_Y xsi:nil="true"/>
+          <MAPPING_STATUS xsi:nil="true"/>
+          <SAMPLE_PREP>PLASMA</SAMPLE_PREP>
+          <DISEASE_CODE xsi:nil="true"/>
+          <SITE_CODE xsi:nil="true"/>
+          <SITE_OF_TISSUE xsi:nil="true"/>
+          <DONOR_AGE xsi:nil="true"/>
+          <AGE_UNITS xsi:nil="true"/>
+          <SEX xsi:nil="true"/>
+          <SPECIES xsi:nil="true"/>
+          <FT_CYCLES xsi:nil="true"/>
+          <QTY_UNITS xsi:nil="true"/>
+          <CONC_UNITS xsi:nil="true"/>
+          <QTY_ORIGINAL xsi:nil="true"/>
+          <QTY_ON_HAND xsi:nil="true"/>
+          <CONCENTRATION xsi:nil="true"/>
+          <STORAGE_STATUS>Available</STORAGE_STATUS>
+          <PREP_STATUS xsi:nil="true"/>
+          <COMMENTS xsi:nil="true"/>
+          <INVENTORY_STATUS>IN</INVENTORY_STATUS>
+          <IMAGE_URL xsi:nil="true"/>
+          <EXPIRY_DATE xsi:nil="true"/>
+        </SAMPLE>
+        <SAMPLE>
+          <PARENT_NUMBER xsi:nil="true"/>
+          <SAMPLE_NUMBER>AT-01-00201-001-008</SAMPLE_NUMBER>
+          <EXTERNAL_NUMBER xsi:nil="true"/>
+          <RECEIPT_DATE xsi:nil="true"/>
+          <COLLECTION_DATE xsi:nil="true"/>
+          <INSTITUTION xsi:nil="true"/>
+          <PREP_DATE xsi:nil="true"/>
+          <PREP_BY xsi:nil="true"/>
+          <COLLECTED_BY xsi:nil="true"/>
+          <STORAGE_ADDRESS>ABLE 008-Shelf2-Box156-036</STORAGE_ADDRESS>
+          <SAMPLE_TYPE>Fluid</SAMPLE_TYPE>
+          <SAMPLE_CATEGORY xsi:nil="true"/>
+          <IS_COMPOSITE xsi:nil="true"/>
+          <ARRAY_SIZE_X xsi:nil="true"/>
+          <ARRAY_SIZE_Y xsi:nil="true"/>
+          <MAPPING_STATUS xsi:nil="true"/>
+          <SAMPLE_PREP>PLASMA</SAMPLE_PREP>
+          <DISEASE_CODE xsi:nil="true"/>
+          <SITE_CODE xsi:nil="true"/>
+          <SITE_OF_TISSUE xsi:nil="true"/>
+          <DONOR_AGE xsi:nil="true"/>
+          <AGE_UNITS xsi:nil="true"/>
+          <SEX xsi:nil="true"/>
+          <SPECIES xsi:nil="true"/>
+          <FT_CYCLES xsi:nil="true"/>
+          <QTY_UNITS xsi:nil="true"/>
+          <CONC_UNITS xsi:nil="true"/>
+          <QTY_ORIGINAL xsi:nil="true"/>
+          <QTY_ON_HAND xsi:nil="true"/>
+          <CONCENTRATION xsi:nil="true"/>
+          <STORAGE_STATUS>Available</STORAGE_STATUS>
+          <PREP_STATUS xsi:nil="true"/>
+          <COMMENTS xsi:nil="true"/>
+          <INVENTORY_STATUS>IN</INVENTORY_STATUS>
+          <IMAGE_URL xsi:nil="true"/>
+          <EXPIRY_DATE xsi:nil="true"/>
+        </SAMPLE>
+        <SAMPLE>
+          <PARENT_NUMBER xsi:nil="true"/>
+          <SAMPLE_NUMBER>AT-01-00201-001-009</SAMPLE_NUMBER>
+          <EXTERNAL_NUMBER xsi:nil="true"/>
+          <RECEIPT_DATE xsi:nil="true"/>
+          <COLLECTION_DATE xsi:nil="true"/>
+          <INSTITUTION xsi:nil="true"/>
+          <PREP_DATE xsi:nil="true"/>
+          <PREP_BY xsi:nil="true"/>
+          <COLLECTED_BY xsi:nil="true"/>
+          <STORAGE_ADDRESS>ABLE 008-Shelf2-Box156-037</STORAGE_ADDRESS>
+          <SAMPLE_TYPE>Fluid</SAMPLE_TYPE>
+          <SAMPLE_CATEGORY xsi:nil="true"/>
+          <IS_COMPOSITE xsi:nil="true"/>
+          <ARRAY_SIZE_X xsi:nil="true"/>
+          <ARRAY_SIZE_Y xsi:nil="true"/>
+          <MAPPING_STATUS xsi:nil="true"/>
+          <SAMPLE_PREP>PLASMA</SAMPLE_PREP>
+          <DISEASE_CODE xsi:nil="true"/>
+          <SITE_CODE xsi:nil="true"/>
+          <SITE_OF_TISSUE xsi:nil="true"/>
+          <DONOR_AGE xsi:nil="true"/>
+          <AGE_UNITS xsi:nil="true"/>
+          <SEX xsi:nil="true"/>
+          <SPECIES xsi:nil="true"/>
+          <FT_CYCLES xsi:nil="true"/>
+          <QTY_UNITS xsi:nil="true"/>
+          <CONC_UNITS xsi:nil="true"/>
+          <QTY_ORIGINAL xsi:nil="true"/>
+          <QTY_ON_HAND xsi:nil="true"/>
+          <CONCENTRATION xsi:nil="true"/>
+          <STORAGE_STATUS>Available</STORAGE_STATUS>
+          <PREP_STATUS xsi:nil="true"/>
+          <COMMENTS xsi:nil="true"/>
+          <INVENTORY_STATUS>IN</INVENTORY_STATUS>
+          <IMAGE_URL xsi:nil="true"/>
+          <EXPIRY_DATE xsi:nil="true"/>
+        </SAMPLE>
+        <SAMPLE>
+          <PARENT_NUMBER xsi:nil="true"/>
+          <SAMPLE_NUMBER>AT-01-00201-001-010</SAMPLE_NUMBER>
+          <EXTERNAL_NUMBER xsi:nil="true"/>
+          <RECEIPT_DATE xsi:nil="true"/>
+          <COLLECTION_DATE xsi:nil="true"/>
+          <INSTITUTION xsi:nil="true"/>
+          <PREP_DATE xsi:nil="true"/>
+          <PREP_BY xsi:nil="true"/>
+          <COLLECTED_BY xsi:nil="true"/>
+          <STORAGE_ADDRESS>ABLE 008-Shelf2-Box156-038</STORAGE_ADDRESS>
+          <SAMPLE_TYPE>Fluid</SAMPLE_TYPE>
+          <SAMPLE_CATEGORY xsi:nil="true"/>
+          <IS_COMPOSITE xsi:nil="true"/>
+          <ARRAY_SIZE_X xsi:nil="true"/>
+          <ARRAY_SIZE_Y xsi:nil="true"/>
+          <MAPPING_STATUS xsi:nil="true"/>
+          <SAMPLE_PREP>PLASMA</SAMPLE_PREP>
+          <DISEASE_CODE xsi:nil="true"/>
+          <SITE_CODE xsi:nil="true"/>
+          <SITE_OF_TISSUE xsi:nil="true"/>
+          <DONOR_AGE xsi:nil="true"/>
+          <AGE_UNITS xsi:nil="true"/>
+          <SEX xsi:nil="true"/>
+          <SPECIES xsi:nil="true"/>
+          <FT_CYCLES xsi:nil="true"/>
+          <QTY_UNITS xsi:nil="true"/>
+          <CONC_UNITS xsi:nil="true"/>
+          <QTY_ORIGINAL xsi:nil="true"/>
+          <QTY_ON_HAND xsi:nil="true"/>
+          <CONCENTRATION xsi:nil="true"/>
+          <STORAGE_STATUS>Available</STORAGE_STATUS>
+          <PREP_STATUS xsi:nil="true"/>
+          <COMMENTS xsi:nil="true"/>
+          <INVENTORY_STATUS>IN</INVENTORY_STATUS>
+          <IMAGE_URL xsi:nil="true"/>
+          <EXPIRY_DATE xsi:nil="true"/>
+        </SAMPLE>
+        <SAMPLE>
+          <PARENT_NUMBER xsi:nil="true"/>
+          <SAMPLE_NUMBER>AT-01-00201-001-011</SAMPLE_NUMBER>
+          <EXTERNAL_NUMBER xsi:nil="true"/>
+          <RECEIPT_DATE xsi:nil="true"/>
+          <COLLECTION_DATE xsi:nil="true"/>
+          <INSTITUTION xsi:nil="true"/>
+          <PREP_DATE xsi:nil="true"/>
+          <PREP_BY xsi:nil="true"/>
+          <COLLECTED_BY xsi:nil="true"/>
+          <STORAGE_ADDRESS>ABLE 008-Shelf2-Box156-039</STORAGE_ADDRESS>
+          <SAMPLE_TYPE>Fluid</SAMPLE_TYPE>
+          <SAMPLE_CATEGORY xsi:nil="true"/>
+          <IS_COMPOSITE xsi:nil="true"/>
+          <ARRAY_SIZE_X xsi:nil="true"/>
+          <ARRAY_SIZE_Y xsi:nil="true"/>
+          <MAPPING_STATUS xsi:nil="true"/>
+          <SAMPLE_PREP>PLASMA</SAMPLE_PREP>
+          <DISEASE_CODE xsi:nil="true"/>
+          <SITE_CODE xsi:nil="true"/>
+          <SITE_OF_TISSUE xsi:nil="true"/>
+          <DONOR_AGE xsi:nil="true"/>
+          <AGE_UNITS xsi:nil="true"/>
+          <SEX xsi:nil="true"/>
+          <SPECIES xsi:nil="true"/>
+          <FT_CYCLES xsi:nil="true"/>
+          <QTY_UNITS xsi:nil="true"/>
+          <CONC_UNITS xsi:nil="true"/>
+          <QTY_ORIGINAL xsi:nil="true"/>
+          <QTY_ON_HAND xsi:nil="true"/>
+          <CONCENTRATION xsi:nil="true"/>
+          <STORAGE_STATUS>Available</STORAGE_STATUS>
+          <PREP_STATUS xsi:nil="true"/>
+          <COMMENTS xsi:nil="true"/>
+          <INVENTORY_STATUS>IN</INVENTORY_STATUS>
+          <IMAGE_URL xsi:nil="true"/>
+          <EXPIRY_DATE xsi:nil="true"/>
+        </SAMPLE>
+        <SAMPLE>
+          <PARENT_NUMBER xsi:nil="true"/>
+          <SAMPLE_NUMBER>AT-01-00201-001-012</SAMPLE_NUMBER>
+          <EXTERNAL_NUMBER xsi:nil="true"/>
+          <RECEIPT_DATE xsi:nil="true"/>
+          <COLLECTION_DATE xsi:nil="true"/>
+          <INSTITUTION xsi:nil="true"/>
+          <PREP_DATE xsi:nil="true"/>
+          <PREP_BY xsi:nil="true"/>
+          <COLLECTED_BY xsi:nil="true"/>
+          <STORAGE_ADDRESS>ABLE 008-Shelf2-Box156-040</STORAGE_ADDRESS>
+          <SAMPLE_TYPE>Molecular</SAMPLE_TYPE>
+          <SAMPLE_CATEGORY xsi:nil="true"/>
+          <IS_COMPOSITE xsi:nil="true"/>
+          <ARRAY_SIZE_X xsi:nil="true"/>
+          <ARRAY_SIZE_Y xsi:nil="true"/>
+          <MAPPING_STATUS xsi:nil="true"/>
+          <SAMPLE_PREP>BUFFY (PBMC)</SAMPLE_PREP>
+          <DISEASE_CODE xsi:nil="true"/>
+          <SITE_CODE xsi:nil="true"/>
+          <SITE_OF_TISSUE xsi:nil="true"/>
+          <DONOR_AGE xsi:nil="true"/>
+          <AGE_UNITS xsi:nil="true"/>
+          <SEX xsi:nil="true"/>
+          <SPECIES xsi:nil="true"/>
+          <FT_CYCLES xsi:nil="true"/>
+          <QTY_UNITS xsi:nil="true"/>
+          <CONC_UNITS xsi:nil="true"/>
+          <QTY_ORIGINAL xsi:nil="true"/>
+          <QTY_ON_HAND xsi:nil="true"/>
+          <CONCENTRATION xsi:nil="true"/>
+          <STORAGE_STATUS>Available</STORAGE_STATUS>
+          <PREP_STATUS xsi:nil="true"/>
+          <COMMENTS xsi:nil="true"/>
+          <INVENTORY_STATUS>IN</INVENTORY_STATUS>
+          <IMAGE_URL xsi:nil="true"/>
+          <EXPIRY_DATE xsi:nil="true"/>
+        </SAMPLE>
+        <SAMPLE>
+          <PARENT_NUMBER xsi:nil="true"/>
+          <SAMPLE_NUMBER>AT-01-00201-001-013</SAMPLE_NUMBER>
+          <EXTERNAL_NUMBER xsi:nil="true"/>
+          <RECEIPT_DATE xsi:nil="true"/>
+          <COLLECTION_DATE xsi:nil="true"/>
+          <INSTITUTION xsi:nil="true"/>
+          <PREP_DATE xsi:nil="true"/>
+          <PREP_BY xsi:nil="true"/>
+          <COLLECTED_BY xsi:nil="true"/>
+          <STORAGE_ADDRESS>ABLE 008-Shelf3-Box248-070</STORAGE_ADDRESS>
+          <SAMPLE_TYPE>Molecular</SAMPLE_TYPE>
+          <SAMPLE_CATEGORY xsi:nil="true"/>
+          <IS_COMPOSITE xsi:nil="true"/>
+          <ARRAY_SIZE_X xsi:nil="true"/>
+          <ARRAY_SIZE_Y xsi:nil="true"/>
+          <MAPPING_STATUS xsi:nil="true"/>
+          <SAMPLE_PREP>PAXGENE</SAMPLE_PREP>
+          <DISEASE_CODE xsi:nil="true"/>
+          <SITE_CODE xsi:nil="true"/>
+          <SITE_OF_TISSUE xsi:nil="true"/>
+          <DONOR_AGE xsi:nil="true"/>
+          <AGE_UNITS xsi:nil="true"/>
+          <SEX xsi:nil="true"/>
+          <SPECIES xsi:nil="true"/>
+          <FT_CYCLES xsi:nil="true"/>
+          <QTY_UNITS xsi:nil="true"/>
+          <CONC_UNITS xsi:nil="true"/>
+          <QTY_ORIGINAL xsi:nil="true"/>
+          <QTY_ON_HAND xsi:nil="true"/>
+          <CONCENTRATION xsi:nil="true"/>
+          <STORAGE_STATUS>Available</STORAGE_STATUS>
+          <PREP_STATUS xsi:nil="true"/>
+          <COMMENTS xsi:nil="true"/>
+          <INVENTORY_STATUS>IN</INVENTORY_STATUS>
+          <IMAGE_URL xsi:nil="true"/>
+          <EXPIRY_DATE xsi:nil="true"/>
+        </SAMPLE>
+        <SAMPLE>
+          <PARENT_NUMBER xsi:nil="true"/>
+          <SAMPLE_NUMBER>AT-01-00201-001-014</SAMPLE_NUMBER>
+          <EXTERNAL_NUMBER xsi:nil="true"/>
+          <RECEIPT_DATE xsi:nil="true"/>
+          <COLLECTION_DATE xsi:nil="true"/>
+          <INSTITUTION xsi:nil="true"/>
+          <PREP_DATE xsi:nil="true"/>
+          <PREP_BY xsi:nil="true"/>
+          <COLLECTED_BY xsi:nil="true"/>
+          <STORAGE_ADDRESS>ABLE 008-Shelf3-Box248-071</STORAGE_ADDRESS>
+          <SAMPLE_TYPE>Molecular</SAMPLE_TYPE>
+          <SAMPLE_CATEGORY xsi:nil="true"/>
+          <IS_COMPOSITE xsi:nil="true"/>
+          <ARRAY_SIZE_X xsi:nil="true"/>
+          <ARRAY_SIZE_Y xsi:nil="true"/>
+          <MAPPING_STATUS xsi:nil="true"/>
+          <SAMPLE_PREP>PAXGENE</SAMPLE_PREP>
+          <DISEASE_CODE xsi:nil="true"/>
+          <SITE_CODE xsi:nil="true"/>
+          <SITE_OF_TISSUE xsi:nil="true"/>
+          <DONOR_AGE xsi:nil="true"/>
+          <AGE_UNITS xsi:nil="true"/>
+          <SEX xsi:nil="true"/>
+          <SPECIES xsi:nil="true"/>
+          <FT_CYCLES xsi:nil="true"/>
+          <QTY_UNITS xsi:nil="true"/>
+          <CONC_UNITS xsi:nil="true"/>
+          <QTY_ORIGINAL xsi:nil="true"/>
+          <QTY_ON_HAND xsi:nil="true"/>
+          <CONCENTRATION xsi:nil="true"/>
+          <STORAGE_STATUS>Available</STORAGE_STATUS>
+          <PREP_STATUS xsi:nil="true"/>
+          <COMMENTS xsi:nil="true"/>
+          <INVENTORY_STATUS>IN</INVENTORY_STATUS>
+          <IMAGE_URL xsi:nil="true"/>
+          <EXPIRY_DATE xsi:nil="true"/>
+        </SAMPLE>
+      </SAMPLE_PACKAGE>
+    </EVENT_PACKAGE>
+  </DONOR_PACKAGE>
+</IMPORT_PACKAGE>

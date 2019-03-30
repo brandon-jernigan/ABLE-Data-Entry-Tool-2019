@@ -1,0 +1,506 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1250</width>
+    <height>892</height>
+   </rect>
+  </property>
+  <property name="palette">
+   <palette>
+    <active>
+     <colorrole role="Base">
+      <brush brushstyle="SolidPattern">
+       <color alpha="255">
+        <red>255</red>
+        <green>255</green>
+        <blue>255</blue>
+       </color>
+      </brush>
+     </colorrole>
+     <colorrole role="Window">
+      <brush brushstyle="SolidPattern">
+       <color alpha="255">
+        <red>0</red>
+        <green>0</green>
+        <blue>0</blue>
+       </color>
+      </brush>
+     </colorrole>
+    </active>
+    <inactive>
+     <colorrole role="Base">
+      <brush brushstyle="SolidPattern">
+       <color alpha="255">
+        <red>255</red>
+        <green>255</green>
+        <blue>255</blue>
+       </color>
+      </brush>
+     </colorrole>
+     <colorrole role="Window">
+      <brush brushstyle="SolidPattern">
+       <color alpha="255">
+        <red>0</red>
+        <green>0</green>
+        <blue>0</blue>
+       </color>
+      </brush>
+     </colorrole>
+    </inactive>
+    <disabled>
+     <colorrole role="Base">
+      <brush brushstyle="SolidPattern">
+       <color alpha="255">
+        <red>0</red>
+        <green>0</green>
+        <blue>0</blue>
+       </color>
+      </brush>
+     </colorrole>
+     <colorrole role="Window">
+      <brush brushstyle="SolidPattern">
+       <color alpha="255">
+        <red>0</red>
+        <green>0</green>
+        <blue>0</blue>
+       </color>
+      </brush>
+     </colorrole>
+    </disabled>
+   </palette>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="QTreeWidget" name="treeWidget">
+    <property name="geometry">
+     <rect>
+      <x>0</x>
+      <y>30</y>
+      <width>1251</width>
+      <height>841</height>
+     </rect>
+    </property>
+    <property name="contextMenuPolicy">
+     <enum>Qt::CustomContextMenu</enum>
+    </property>
+    <property name="sizeAdjustPolicy">
+     <enum>QAbstractScrollArea::AdjustIgnored</enum>
+    </property>
+    <property name="dragDropMode">
+     <enum>QAbstractItemView::InternalMove</enum>
+    </property>
+    <property name="alternatingRowColors">
+     <bool>true</bool>
+    </property>
+    <property name="animated">
+     <bool>true</bool>
+    </property>
+    <attribute name="headerCascadingSectionResizes">
+     <bool>false</bool>
+    </attribute>
+    <attribute name="headerDefaultSectionSize">
+     <number>200</number>
+    </attribute>
+    <column>
+     <property name="text">
+      <string>1</string>
+     </property>
+    </column>
+    <column>
+     <property name="text">
+      <string comment="test" extracomment="test">2</string>
+     </property>
+     <property name="font">
+      <font>
+       <weight>50</weight>
+       <bold>false</bold>
+      </font>
+     </property>
+    </column>
+    <item>
+     <property name="text">
+      <string>Donor</string>
+     </property>
+     <property name="checkState">
+      <enum>Unchecked</enum>
+     </property>
+     <property name="text">
+      <string>AT001</string>
+     </property>
+     <property name="flags">
+      <set>ItemIsSelectable|ItemIsEditable|ItemIsUserCheckable|ItemIsEnabled</set>
+     </property>
+     <item>
+      <property name="text">
+       <string>Event</string>
+      </property>
+      <property name="checkState">
+       <enum>Unchecked</enum>
+      </property>
+      <property name="text">
+       <string>001</string>
+      </property>
+      <property name="flags">
+       <set>ItemIsSelectable|ItemIsEditable|ItemIsDropEnabled|ItemIsUserCheckable|ItemIsEnabled</set>
+      </property>
+      <item>
+       <property name="text">
+        <string>Serum</string>
+       </property>
+       <property name="checkState">
+        <enum>Unchecked</enum>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <item>
+        <property name="text">
+         <string>AT001-001-001</string>
+        </property>
+        <property name="checkState">
+         <enum>Checked</enum>
+        </property>
+        <property name="text">
+         <string/>
+        </property>
+        <property name="flags">
+         <set>ItemIsSelectable|ItemIsEditable|ItemIsUserCheckable|ItemIsEnabled</set>
+        </property>
+       </item>
+       <item>
+        <property name="text">
+         <string>AT001-001-002</string>
+        </property>
+        <property name="checkState">
+         <enum>Checked</enum>
+        </property>
+        <property name="text">
+         <string/>
+        </property>
+        <property name="flags">
+         <set>ItemIsSelectable|ItemIsEditable|ItemIsUserCheckable|ItemIsEnabled</set>
+        </property>
+       </item>
+      </item>
+      <item>
+       <property name="text">
+        <string>Plasma</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <item>
+        <property name="text">
+         <string>AT001-001-003</string>
+        </property>
+        <property name="text">
+         <string/>
+        </property>
+        <property name="flags">
+         <set>ItemIsSelectable|ItemIsEditable|ItemIsUserCheckable|ItemIsEnabled</set>
+        </property>
+       </item>
+      </item>
+      <item>
+       <property name="text">
+        <string>WB(NAP) - Trizol</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <item>
+        <property name="text">
+         <string>AT001-001-004</string>
+        </property>
+        <property name="text">
+         <string/>
+        </property>
+        <property name="flags">
+         <set>ItemIsSelectable|ItemIsEditable|ItemIsUserCheckable|ItemIsEnabled</set>
+        </property>
+       </item>
+      </item>
+      <item>
+       <property name="text">
+        <string>WB(NAP) - RNAlater</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <item>
+        <property name="text">
+         <string>AT001-001-005</string>
+        </property>
+        <property name="text">
+         <string/>
+        </property>
+        <property name="flags">
+         <set>ItemIsSelectable|ItemIsEditable|ItemIsUserCheckable|ItemIsEnabled</set>
+        </property>
+       </item>
+      </item>
+      <item>
+       <property name="text">
+        <string>WB(NAP) - LB</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <item>
+        <property name="text">
+         <string>AT001-001-006</string>
+        </property>
+        <property name="text">
+         <string/>
+        </property>
+        <property name="flags">
+         <set>ItemIsSelectable|ItemIsEditable|ItemIsUserCheckable|ItemIsEnabled</set>
+        </property>
+       </item>
+      </item>
+      <item>
+       <property name="text">
+        <string>Blood Card</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <item>
+        <property name="text">
+         <string>AT001-001-007</string>
+        </property>
+        <property name="text">
+         <string/>
+        </property>
+        <property name="flags">
+         <set>ItemIsSelectable|ItemIsEditable|ItemIsUserCheckable|ItemIsEnabled</set>
+        </property>
+       </item>
+      </item>
+      <item>
+       <property name="text">
+        <string>Buffy(PBMC)</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <item>
+        <property name="text">
+         <string>AT001-001-008</string>
+        </property>
+        <property name="text">
+         <string/>
+        </property>
+        <property name="flags">
+         <set>ItemIsSelectable|ItemIsEditable|ItemIsUserCheckable|ItemIsEnabled</set>
+        </property>
+       </item>
+      </item>
+      <item>
+       <property name="text">
+        <string>Buffy(PBMC) - RNAlater</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <item>
+        <property name="text">
+         <string>AT001-001-009</string>
+        </property>
+        <property name="text">
+         <string/>
+        </property>
+        <property name="flags">
+         <set>ItemIsSelectable|ItemIsEditable|ItemIsUserCheckable|ItemIsEnabled</set>
+        </property>
+       </item>
+      </item>
+     </item>
+    </item>
+    <item>
+     <property name="text">
+      <string>Donor: AT002</string>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <property name="flags">
+      <set>ItemIsSelectable|ItemIsEditable|ItemIsUserCheckable|ItemIsEnabled</set>
+     </property>
+     <item>
+      <property name="text">
+       <string>Event: 001</string>
+      </property>
+      <property name="text">
+       <string/>
+      </property>
+      <property name="flags">
+       <set>ItemIsSelectable|ItemIsEditable|ItemIsUserCheckable|ItemIsEnabled</set>
+      </property>
+      <item>
+       <property name="text">
+        <string>Serum</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <item>
+        <property name="text">
+         <string>AT002-001-001</string>
+        </property>
+        <property name="text">
+         <string/>
+        </property>
+        <property name="flags">
+         <set>ItemIsSelectable|ItemIsEditable|ItemIsDragEnabled|ItemIsUserCheckable|ItemIsEnabled</set>
+        </property>
+       </item>
+      </item>
+     </item>
+     <item>
+      <property name="text">
+       <string>Event: 002</string>
+      </property>
+      <property name="text">
+       <string/>
+      </property>
+      <item>
+       <property name="text">
+        <string>Serum</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <item>
+        <property name="text">
+         <string>AT002-002-001</string>
+        </property>
+        <property name="text">
+         <string/>
+        </property>
+        <property name="flags">
+         <set>ItemIsSelectable|ItemIsEditable|ItemIsDragEnabled|ItemIsUserCheckable|ItemIsEnabled</set>
+        </property>
+       </item>
+      </item>
+     </item>
+    </item>
+   </widget>
+   <widget class="QPushButton" name="puchButton_add_donor">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>0</y>
+      <width>91</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Add New Donor</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton_create_import">
+    <property name="enabled">
+     <bool>false</bool>
+    </property>
+    <property name="geometry">
+     <rect>
+      <x>1120</x>
+      <y>0</y>
+      <width>120</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Create Import Package</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label">
+    <property name="geometry">
+     <rect>
+      <x>200</x>
+      <y>-7</y>
+      <width>821</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:18pt; font-weight:600; color:#ffffff;&quot;&gt;Collection&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+    </property>
+    <property name="alignment">
+     <set>Qt::AlignCenter</set>
+    </property>
+   </widget>
+  </widget>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>1250</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <widget class="QMenu" name="menuMenu">
+    <property name="title">
+     <string>Menu1</string>
+    </property>
+    <widget class="QMenu" name="menuSubmenu1">
+     <property name="title">
+      <string>Submenu1</string>
+     </property>
+     <addaction name="separator"/>
+     <addaction name="actionSubsubmenu1"/>
+     <addaction name="actionSubsubmenu2"/>
+    </widget>
+    <addaction name="menuSubmenu1"/>
+    <addaction name="separator"/>
+    <addaction name="actionSubmenu"/>
+    <addaction name="actionSubmenu3"/>
+   </widget>
+   <widget class="QMenu" name="menuMenu2">
+    <property name="title">
+     <string>Menu2</string>
+    </property>
+    <addaction name="actionSubmenu_2"/>
+   </widget>
+   <addaction name="menuMenu"/>
+   <addaction name="menuMenu2"/>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+  <action name="actionSubmenu">
+   <property name="text">
+    <string>Submenu2</string>
+   </property>
+  </action>
+  <action name="actionSubmenu3">
+   <property name="text">
+    <string>Submenu3</string>
+   </property>
+  </action>
+  <action name="actionSubsubmenu1">
+   <property name="text">
+    <string>Subsubmenu1</string>
+   </property>
+  </action>
+  <action name="actionSubsubmenu2">
+   <property name="text">
+    <string>Subsubmenu2</string>
+   </property>
+  </action>
+  <action name="actionSubmenu_2">
+   <property name="text">
+    <string>Submenu</string>
+   </property>
+  </action>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
