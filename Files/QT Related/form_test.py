@@ -74,15 +74,6 @@ class Ui_MainWindow(object):
 
         item_2 = QtWidgets.QTreeWidgetItem(item_1)
         item_2.setCheckState(0, QtCore.Qt.Unchecked)
-        
-        item_3 = QtWidgets.QTreeWidgetItem(item_2)
-        item_3.setCheckState(0, QtCore.Qt.Checked)
-        item_3.setFlags(
-            QtCore.Qt.ItemIsSelectable
-            | QtCore.Qt.ItemIsEditable
-            | QtCore.Qt.ItemIsUserCheckable
-            | QtCore.Qt.ItemIsEnabled
-        )
 
         item_3 = QtWidgets.QTreeWidgetItem(item_2)
         item_3.setCheckState(0, QtCore.Qt.Checked)
@@ -93,7 +84,17 @@ class Ui_MainWindow(object):
             | QtCore.Qt.ItemIsEnabled
         )
 
+        item_3 = QtWidgets.QTreeWidgetItem(item_2)
+        item_3.setCheckState(0, QtCore.Qt.Checked)
+        item_3.setFlags(
+            QtCore.Qt.ItemIsSelectable
+            | QtCore.Qt.ItemIsEditable
+            | QtCore.Qt.ItemIsUserCheckable
+            | QtCore.Qt.ItemIsEnabled
+        )
+
         item_2 = QtWidgets.QTreeWidgetItem(item_1)
+
         item_3 = QtWidgets.QTreeWidgetItem(item_2)
         item_3.setFlags(
             QtCore.Qt.ItemIsSelectable
@@ -103,6 +104,7 @@ class Ui_MainWindow(object):
         )
 
         item_2 = QtWidgets.QTreeWidgetItem(item_1)
+
         item_3 = QtWidgets.QTreeWidgetItem(item_2)
         item_3.setFlags(
             QtCore.Qt.ItemIsSelectable
@@ -112,6 +114,7 @@ class Ui_MainWindow(object):
         )
 
         item_2 = QtWidgets.QTreeWidgetItem(item_1)
+
         item_3 = QtWidgets.QTreeWidgetItem(item_2)
         item_3.setFlags(
             QtCore.Qt.ItemIsSelectable
@@ -121,6 +124,7 @@ class Ui_MainWindow(object):
         )
 
         item_2 = QtWidgets.QTreeWidgetItem(item_1)
+
         item_3 = QtWidgets.QTreeWidgetItem(item_2)
         item_3.setFlags(
             QtCore.Qt.ItemIsSelectable
@@ -130,6 +134,7 @@ class Ui_MainWindow(object):
         )
 
         item_2 = QtWidgets.QTreeWidgetItem(item_1)
+
         item_3 = QtWidgets.QTreeWidgetItem(item_2)
         item_3.setFlags(
             QtCore.Qt.ItemIsSelectable
@@ -139,6 +144,7 @@ class Ui_MainWindow(object):
         )
 
         item_2 = QtWidgets.QTreeWidgetItem(item_1)
+
         item_3 = QtWidgets.QTreeWidgetItem(item_2)
         item_3.setFlags(
             QtCore.Qt.ItemIsSelectable
@@ -148,6 +154,7 @@ class Ui_MainWindow(object):
         )
 
         item_2 = QtWidgets.QTreeWidgetItem(item_1)
+
         item_3 = QtWidgets.QTreeWidgetItem(item_2)
         item_3.setFlags(
             QtCore.Qt.ItemIsSelectable
@@ -173,6 +180,7 @@ class Ui_MainWindow(object):
         )
 
         item_2 = QtWidgets.QTreeWidgetItem(item_1)
+
         item_3 = QtWidgets.QTreeWidgetItem(item_2)
         item_3.setFlags(
             QtCore.Qt.ItemIsSelectable
@@ -183,7 +191,9 @@ class Ui_MainWindow(object):
         )
 
         item_1 = QtWidgets.QTreeWidgetItem(item_0)
+
         item_2 = QtWidgets.QTreeWidgetItem(item_1)
+
         item_3 = QtWidgets.QTreeWidgetItem(item_2)
         item_3.setFlags(
             QtCore.Qt.ItemIsSelectable
@@ -196,10 +206,10 @@ class Ui_MainWindow(object):
         self.treeWidget.header().setCascadingSectionResizes(False)
         self.treeWidget.header().setDefaultSectionSize(200)
 
-        self.puchButton_add_donor = QtWidgets.QPushButton(self.centralwidget)
-        self.puchButton_add_donor.setGeometry(QtCore.QRect(10, 0, 91, 31))
-        self.puchButton_add_donor.setObjectName("puchButton_add_donor")
-        
+        self.pushButton_add_donor = QtWidgets.QPushButton(self.centralwidget)
+        self.pushButton_add_donor.setGeometry(QtCore.QRect(10, 0, 91, 31))
+        self.pushButton_add_donor.setObjectName("pushButton_add_donor")
+
         self.pushButton_create_import = QtWidgets.QPushButton(self.centralwidget)
         self.pushButton_create_import.setEnabled(False)
         self.pushButton_create_import.setGeometry(QtCore.QRect(1120, 0, 120, 31))
@@ -382,7 +392,7 @@ class Ui_MainWindow(object):
 
         self.treeWidget.setSortingEnabled(__sortingEnabled)
 
-        self.puchButton_add_donor.setText(_translate("MainWindow", "Add New Donor"))
+        self.pushButton_add_donor.setText(_translate("MainWindow", "Add New Donor"))
         self.pushButton_create_import.setText(
             _translate("MainWindow", "Create Import Package")
         )
